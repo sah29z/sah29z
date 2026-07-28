@@ -13,8 +13,6 @@ Country: Brazil 🇧🇷
 Role: Software Developer
 
 Languages:
-  - C#
-  - C++
   - TypeScript
   - JavaScript
   - Python
@@ -30,7 +28,7 @@ Languages:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,ts,js,py,html,css"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css"/>
 
 </div>
 
@@ -47,13 +45,6 @@ Languages:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-# 🎯 Goals
-
-- 🚀 Build high-quality software.
-- 💻 Improve programming skills.
-- 🔬 Learn new technologies.
-- 🌍 Contribute to open-source projects.
 
 <div align="center">
 </div>
