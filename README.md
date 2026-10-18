@@ -72,12 +72,16 @@ curiosidade: "Gosto de desmontar as coisas para entender como funcionam."
 
 <div align="center">
 
-<a href="https://github.com/sah29z/PROJETO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sah29z&repo=PROJETO_1&theme=tokyonight&hide_border=true"/>
+### 🏃‍♂️ StumbleFast
+**Mod para Stumble Guys em desenvolvimento**
+
+<a href="https://github.com/sah29z/StumbleFast">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sah29z&repo=StumbleFast&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/sah29z/PROJETO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sah29z&repo=PROJETO_2&theme=tokyonight&hide_border=true"/>
-</a>
+
+<br/>
+
+<a href="https://discord.gg/stumblefast"><img src="https://img.shields.io/badge/Discord-discord.gg/stumblefast-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
@@ -87,9 +91,8 @@ curiosidade: "Gosto de desmontar as coisas para entender como funcionam."
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sah29zx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://SEU_SITE.com"><img src="https://img.shields.io/badge/Portfólio-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://discord.gg/stumblefast"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
