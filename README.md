@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Developer;Mod+Developer;Reverse+Engineering;TypeScript+%7C+JavaScript+%7C+Python;Learning+C%23+and+MongoDB." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Developer;Developer;Reverse+Engineering;TypeScript+%7C+JavaScript+%7C+Python;Learning+C%23+and+MongoDB." />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a developer from Brazil focused on **mod development, reverse engineering and software development**.
+I'm a developer from Brazil focused on **development, reverse engineering and software development**.
 
 I like taking existing software apart to understand how it works under the hood: file formats, protocols and game internals. Right now I'm going deeper into **TypeScript and JavaScript**, and learning **C#** and **MongoDB**.
 
@@ -31,7 +31,6 @@ role: Developer
 country: Brazil
 
 focus:
-  - Mod Development
   - Reverse Engineering
   - Software Development
 
