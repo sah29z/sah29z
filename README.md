@@ -1,99 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:7b2ff7&height=200&section=header&text=Olá,%20eu%20sou%20sah29z&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20•%20Engenharia%20Reversa&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/sah29z">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Dev+TypeScript+%26+Python;Apaixonado+por+engenharia+reversa;Aprendendo+C%23+e+explorando+MongoDB;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=sah29z&fontSize=54&fontColor=00c8ff&fontAlignY=50&desc=desenvolvedor%20•%20engenharia%20reversa&descAlignY=76&descSize=16&descColor=8b949e" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sah29z&color=00c8ff&style=for-the-badge&label=VISITAS"/>
-<img src="https://img.shields.io/github/followers/sah29z?style=for-the-badge&logo=github&color=7b2ff7"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=desmontando+coisas+pra+entender+como+funcionam;TypeScript+%7C+Python+%7C+C%23;mexendo+no+StumbleFast" alt="typing"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Sobre mim
+## sobre
 
-```yaml
-nome: sah29z
-país: Brasil 🇧🇷
-função: Desenvolvedor de Software
-foco_atual:
-  - Engenharia reversa
-  - Aprofundar em TypeScript e JavaScript
-aprendendo:
-  - C# 🎯
-  - MongoDB
-curiosidade: "Gosto de desmontar as coisas para entender como funcionam."
-```
+Sou dev do Brasil e passo boa parte do tempo abrindo coisas pra ver o que tem dentro: formatos de arquivo, protocolos, apps. É assim que eu aprendo melhor.
 
-- 💻 Apaixonado por programação e por resolver problemas difíceis
-- 🔍 Estudo engenharia reversa: formatos, protocolos e como os sistemas funcionam por dentro
-- 🌱 Atualmente aprendendo **C#** e trabalhando com **MongoDB**
-- 📫 Fale comigo: sah29zx@gmail.com
+Agora estou aprofundando em **TypeScript** e **JavaScript**, começando **C#** e usando **MongoDB** nos projetos.
 
----
+<br/>
 
-## 🛠️ Tecnologias
+## stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nodejs,mongodb,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,mongodb,html,css,git&theme=dark"/>
+
+</div>
+
+<br/>
+
+## projeto atual
+
+<div align="center">
+
+<br/>
+
+
+<h3>StumbleFast</h3>
+
+<sub>mod para Stumble Guys, em desenvolvimento</sub>
 
 <br/><br/>
 
-**🎯 Aprendendo agora:**
+<img src="https://img.shields.io/badge/status-em%20desenvolvimento-00c8ff?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/jogo-Stumble%20Guys-7b2ff7?style=flat-square&labelColor=161b22"/>
 
-<img src="https://skillicons.dev/icons?i=cs&theme=dark"/>
+<br/><br/>
 
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sah29z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sah29z&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sah29z&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📌 Projetos em destaque
-
-<div align="center">
-
-### 🏃‍♂️ StumbleFast
-**Mod para Stumble Guys em desenvolvimento**
-
-<a href="https://github.com/sah29z/StumbleFast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sah29z&repo=StumbleFast&theme=tokyonight&hide_border=true"/>
+<a href="https://discord.gg/stumblefast">
+  <img src="https://img.shields.io/badge/entrar%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<br/>
-
-<a href="https://discord.gg/stumblefast"><img src="https://img.shields.io/badge/Discord-discord.gg/stumblefast-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<br/><br/>
 
 </div>
 
----
+<br/>
 
-## 🤝 Vamos conversar
+## números
 
 <div align="center">
 
-<a href="mailto:sah29zx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://discord.gg/stumblefast"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sah29z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sah29z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00c8ff&height=100&section=footer" width="100%"/>
+<br/>
+
+## contato
+
+<div align="center">
+
+<a href="mailto:sah29zx@gmail.com"><img src="https://img.shields.io/badge/sah29zx@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://discord.gg/stumblefast"><img src="https://img.shields.io/badge/discord.gg/stumblefast-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" width="100%"/>
